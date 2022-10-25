@@ -23,7 +23,7 @@ Push the task to GitHub when you finish and submit the GitHub repository link
 <li> This task was done in Vscode.</li>
 <li> Before you , open VScode, you create a folder in your desktop. All files would be automatically saved in this folder.</li>
 <li> Makesure that the python extension is intalled in VScode.</li>
-<li> Open a new terminal, and create a virtual environment, you can give this virtual enviorment any name. The name of my virtual environment in this repo is "my-zuri-week-4-task".</li> 
+<li> Open a new terminal, and create a virtual environment, you can give this virtual enviorment any name. The name of my virtual environment in this repo is "Zuri-django-project".</li> 
 <li> It is in this virtual environment that you install django</li>
 <li> open a file in your workspace and name the file requirements.txt. it is in this file that you will pin all your dependencies.</li>
 <li> The dependencies are softwares required for your django project to run or work effectively.</li>
